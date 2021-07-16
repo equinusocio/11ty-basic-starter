@@ -9,7 +9,7 @@ tags:
 
 This is a sample blog post to demonstrate how posts look with the Native Elements. All the content of this article is inside a Markdown file. [Eleventy](https://www.11ty.dev/ 'Eleventy, a simpler static site generator') transforms that file into an HTML page.
 
-This starter uses [Native Elements](https://native-elements.stackblitz.io) CSS to add a basic style to native HTML elements without any extra framework. You can customize it by setting their global custom properties inside the `:root` CSS selector.
+This starter uses [Native Elements](https://native-elements.dev) CSS to add a basic style to native HTML elements without any extra framework. You can customize it by setting their global custom properties inside the `:root` CSS selector.
 
 For example, this is a `blockquote` with a basic style:
 
